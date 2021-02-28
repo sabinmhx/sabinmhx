@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sabinmhx)
 
-- 💬 Ask me about **C++, Java, Python, DS & Algo and Linux**
+- 💬 Ask me about **C++, Java, Python, DSA and Linux**
 
 - 📫 How to reach me **sabinmhx@gmail.com**
 
