@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++, Java, Python, DSA and Linux**
 
-- 📫 How to reach me **sabinmhx@gmail.com**
+- 📫 How to reach me **sabinmhx@outlook.com**
 
 - ⚡ Fun fact **I am a huge foodie.**
 
