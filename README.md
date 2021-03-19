@@ -21,7 +21,7 @@
 [<img align="left" alt="SabinMaharjan | Dev" height="22px" src="./assets/Dev.png" />][dev]
 [<img align="left" alt="SabinMaharjan | Facebook" height="22px" src="./assets/Facebook.png" />][facebook]
 [<img align="left" alt="SabinMaharjan | Instagram" height="22px" src="./assets/Instagram.png" />][instagram]
-[<img align="left" alt="SabinMaharjan | Medium" height="22px" src="./assets/medium.png" />][medium]
+[<img align="left" alt="SabinMaharjan | Medium" height="22px" src="./assets/Medium.png" />][medium]
 
 <br/>
 
