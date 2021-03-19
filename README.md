@@ -25,8 +25,6 @@
 
 <br/>
 
----
-
 ### Languages and Tools:
 [<code>
 <img alt="c-programming" width="26px" src="https://img.icons8.com/color/240/000000/c-programming.png">
