@@ -80,7 +80,7 @@
 
 ---
 
-[website]: https://sabinmaharjan8.com.np
+[website]: https://sabin-maharjan.com.np
 [linkedin]: https://www.linkedin.com/in/sabinmhx
 [medium]: https://medium.com/@sabinmhx
 [dev]: https://dev.to/sabinmhx
