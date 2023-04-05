@@ -1,90 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sabin Maharjan</h1>
-<h3 align="center">Developer and CS student from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabinmhx&label=Profile%20views&color=0e75b6&style=flat" alt="sabinmhx" /> </p>
-<p align="left"> <a href="https://twitter.com/sabinmhx" target="blank"><img src="https://img.shields.io/twitter/follow/sabinmhx?logo=twitter&style=for-the-badge" alt="sabinmhx" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabinmhx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabinmhx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabinmhx) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sabinmhx) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/sabinmhx) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sabinmhx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sabinmhx) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/SabinMhx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sabinmhx) 
 
-![sabinmhx](assets/sabinmhx.png)
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sabinmhx&theme=darcula&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sabinmhx&theme=darcula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinmhx&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on **Android AI Diet Consultant**
-- 🌱 I’m currently learning **React Native**.
-- 📫 Drop a mail to reach me [**sabinmhx@gmail.com**][gmail]
-- ⚡ Fun fact: I am a huge foodie.
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=sabinmhx)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
-
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-[<img align="left" alt="SabinMaharjan" height="22px" src="./assets/Web.png" />][website]
-[<img align="left" alt="SabinMaharjan | Twitter" height="22px" src="./assets/Twitter.png" />][twitter]
-[<img align="left" alt="SabinMaharjan | LinkedIn" height="22px" src="./assets/LinkedIn.png" />][linkedin]
-[<img align="left" alt="SabinMaharjan | Dev" height="22px" src="./assets/Dev.png" />][dev]
-[<img align="left" alt="SabinMaharjan | Facebook" height="22px" src="./assets/Facebook.png" />][facebook]
-[<img align="left" alt="SabinMaharjan | Instagram" height="22px" src="./assets/Instagram.png" />][instagram]
-[<img align="left" alt="SabinMaharjan | Medium" height="25px" src="./assets/Medium.png" />][medium]
-
-<br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sabinmhx&icon=0&color=8)](https://visitcount.itsvg.in)
 
-### Languages and Tools:
-[<code>
-<img alt="c-programming" width="26px" src="https://img.icons8.com/color/240/000000/c-programming.png">
-</code>](https://cprogramming.com)
-[<code>
-<img alt="cpp-programming" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-</code>](https://www.w3schools.com/cpp/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://java.com)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
-[<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-
----
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabinmhx&show_icons=true&locale=en" alt="sabinmhx" /></p>
-
----
-
-[website]: https://sabin-maharjan.com.np
-[linkedin]: https://www.linkedin.com/in/sabinmhx
-[medium]: https://medium.com/@sabinmhx
-[dev]: https://dev.to/sabinmhx
-[gmail]: mailto:sabinmhx@gmail.com
-[twitter]: https://twitter.com/sabinmhx
-[facebook]: https://www.facebook.com/sabinmhx
-[instagram]: https://www.instagram.com/sabinmhx
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
