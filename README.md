@@ -1,17 +1,19 @@
-<div align="center">
 <h1 align="center">Hi 👋, I'm Sabin Maharjan</h1>
 <h3 align="center">Software Engineer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabinmhx&label=Profile%20views&color=0e75b6&style=flat" alt="sabinmhx" /> </p>
 
-🌱 I’m currently learning **Flutter**
+<p align="left"> <a href="https://twitter.com/sabinmhx" target="blank"><img src="https://img.shields.io/twitter/follow/sabinmhx?logo=twitter&style=for-the-badge" alt="sabinmhx" /></a> </p>
 
-💬 Ask me about **Dart**
+- 🌱 I’m currently learning **Flutter**
 
-📫 How to reach me **sabinm977@gmail.com**
+- 💬 Ask me about **Dart**
 
-⚡ Fun fact **I am a big foodie**
+- 📫 How to reach me **sabinm977@gmail.com**
 
+- ⚡ Fun fact **I am a big foodie**
+
+<div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sabinmhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabinmhx" height="30" width="40" /></a>
