@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabinmhx&label=Profile%20views&color=0e75b6&style=flat" alt="sabinmhx" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Dart**
+💬 Ask me about **Dart**
 
-- 📫 How to reach me **sabinm977@gmail.com**
+📫 How to reach me **sabinm977@gmail.com**
 
-- ⚡ Fun fact **I am a big foodie**
+⚡ Fun fact **I am a big foodie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
