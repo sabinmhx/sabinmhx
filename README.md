@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/sabinmhx" target="blank"><img src="https://img.shields.io/twitter/follow/sabinmhx?logo=twitter&style=for-the-badge" alt="sabinmhx" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Dart**
+💬 Ask me about **Dart**
 
-- 📫 How to reach me **sabinm977@gmail.com**
+📫 How to reach me **sabinm977@gmail.com**
 
-- ⚡ Fun fact **I am a big foodie.**
+⚡ Fun fact **I am a big foodie.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
