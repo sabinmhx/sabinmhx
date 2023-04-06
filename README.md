@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Sabin Maharjan</h1>
 <h3 align="center">Software Engineer from Nepal</h3>
 
@@ -26,4 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabinmhx&show_icons=true&theme=dracula&locale=en" alt="sabinmhx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinmhx&" alt="sabinmhx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinmhx&theme=dark" alt="sabinmhx" /></p>
+  </div>  
