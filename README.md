@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Dart**
 
-- 📫 How to reach me **sabinm977@gmail.com**
+- 📫 Reach me on **sabinm977@gmail.com**
 
 - ⚡ Fun fact **I am a big foodie**
 
