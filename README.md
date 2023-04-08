@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabinmhx&show_icons=true&theme=dracula&locale=en&hide-border=true&layout=compact" alt="sabinmhx" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sabinmhx&show_icons=true&theme=dracula&locale=enhide-border=true" alt="sabinmhx" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sabinmhx&show_icons=true&theme=dracula&locale=en&hide-border=true" alt="sabinmhx" /></p>
