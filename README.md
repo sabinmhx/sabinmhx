@@ -28,6 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabinmhx&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sabinmhx" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sabinmhx&show_icons=true&theme=gruvbox&title_color=000000&locale=en" alt="sabinmhx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinmhx&theme=dark" alt="sabinmhx" /></p>
-
