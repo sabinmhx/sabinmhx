@@ -25,10 +25,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinmhx&theme=dracula" alt="sabinmhx" /></p> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabinmhx&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sabinmhx" /></p>
 </div>
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=sabinmhx)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=sabinmhx&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
