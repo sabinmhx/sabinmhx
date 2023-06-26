@@ -10,8 +10,6 @@
 <a href="https://instagram.com/sabinmhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabinmhx" height="30" width="40" /></a>
 </p>
 
-<br>
-
 <h3 align="center">Tools</h3>
 <p align="center">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="47" height="47" />
