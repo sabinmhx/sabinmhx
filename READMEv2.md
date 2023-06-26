@@ -1,2 +1,8 @@
 # 👨🏻‍💻 [Sabin Maharjan @sabinmhx](sabin-maharjan.com.np)
-[![Socials](https://skillicons.dev/icons?i=linkedin,twitter)](https://skillicons.dev)
+<p align="center">
+  [![Socials]
+  <a href="https://skillicons.dev">
+    (https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sabinmhx)
+  </a>
+</p>
+
