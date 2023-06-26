@@ -1,4 +1,4 @@
-# 👨🏻‍💻 [Sabin Maharjan @sabinmhx](sabin-maharjan.com.np)
+# 👨🏻‍💻 [Sabin Maharjan @sabinmhx](http://www.sabin-maharjan.com.np)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabinmhx&label=Profile%20views&color=0e75b6&style=flat" alt="sabinmhx" /> </p>
 <p align="center"> <img src="assets/githubprofile.png" alt="sabinmhx" /> </p>
