@@ -1,6 +1,7 @@
 # 👨🏻‍💻 [Sabin Maharjan @sabinmhx](sabin-maharjan.com.np)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabinmhx&label=Profile%20views&color=0e75b6&style=flat" alt="sabinmhx" /> </p>
+<p align="center"> <img src="assets/profile.png" alt="sabinmhx" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
