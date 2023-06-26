@@ -1,6 +1,8 @@
 # 👨🏻‍💻 [Sabin Maharjan @sabinmhx](http://www.sabin-maharjan.com.np)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabinmhx&label=Profile%20views&color=0e75b6&style=flat" alt="sabinmhx" /> </p>
+[![ProfileViews](https://komarev.com/ghpvc/?username=sabinmhx&color=red&style=flat)](https://komarev.com/ghpvc/?username=sabinmhx)
+[![Gmail Badge](https://img.shields.io/badge/-sabinmhx@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sabinmhx@gmail.com)](mailto:sabinmhx@gmail.com)
+
 <p align="center"> <img src="assets/githubprofile.png" alt="sabinmhx" /> </p>
 
 <h3 align="center">Connect with me</h3>
