@@ -9,17 +9,23 @@
 <p align="center"> <img src="assets/githubprofile.png" alt="sabinmhx" /> </p>
 
 <p align="center">
-<img src="assets/java.svg" height="5%" width="5%">
-<img src="assets/kotlin.svg" height="4%" width="4%">
-<img src="assets/dart.svg" height="4%" width="4%">
-<img src="assets/flutter.svg" height="4%" width="4%">
-<img src="assets/javascript.svg" height="4%" width="4%">
-<img src="assets/typescript.svg" height="4%" width="4%">
-<img src="assets/firebase.svg" height="4%" width="4%">
-<img src="assets/docker.svg" height="4%" width="4%">
-<img src="assets/aws.svg" height="4%" width="4%">
-  
+  <img src="assets/java.svg" height="5%" width="5%">
+  <img src="assets/kotlin.svg" height="4%" width="4%">
+  <img src="assets/dart.svg" height="4%" width="4%">
+  <img src="assets/flutter.svg" height="4%" width="4%">
+  <img src="assets/javascript.svg" height="4%" width="4%">
+  <img src="assets/typescript.svg" height="4%" width="4%">
+  <img src="assets/firebase.svg" height="4%" width="4%">
+  <img src="assets/docker.svg" height="4%" width="4%">
+  <img src="assets/kubernetes.svg" height="4%" width="4%">
 </p>
+
+<!-- Animated Icons
+<p align="center">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" /></div>
+</p>
+Animated Icons -->
+
 <br>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabinmhx&show_icons=true&theme=dracula&locale=en&hide-border=true" alt="sabinmhx" /></p>
