@@ -9,7 +9,15 @@
 <p align="center"> <img src="assets/githubprofile.png" alt="sabinmhx" /> </p>
 
 <p align="center">
-<img src="assets/java.svg">
+<img src="assets/java.svg" height="7%" width="7%">
+<img src="assets/kotlin.svg">
+<img src="assets/dart.svg">
+<img src="assets/flutter.svg">
+<img src="assets/javascript.svg">
+<img src="assets/typescript.svg">
+<img src="assets/firebase.svg">
+<img src="assets/docker.svg">
+<img src="assets/aws.svg">
   
 </p>
 <br>
