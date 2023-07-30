@@ -9,7 +9,7 @@
 <p align="center"> <img src="assets/githubprofile.png" alt="sabinmhx" /> </p>
 
 <p align="center">
-![Java](assets/java.svg)
+<img src="assets/java.svg">
   
 </p>
 <br>
