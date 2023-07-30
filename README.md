@@ -10,14 +10,14 @@
 
 <p align="center">
 <img src="assets/java.svg" height="4%" width="4%">
-<img src="assets/kotlin.svg">
-<img src="assets/dart.svg">
-<img src="assets/flutter.svg">
-<img src="assets/javascript.svg">
-<img src="assets/typescript.svg">
-<img src="assets/firebase.svg">
-<img src="assets/docker.svg">
-<img src="assets/aws.svg">
+<img src="assets/kotlin.svg" height="4%" width="4%">
+<img src="assets/dart.svg" height="4%" width="4%">
+<img src="assets/flutter.svg" height="4%" width="4%">
+<img src="assets/javascript.svg" height="4%" width="4%">
+<img src="assets/typescript.svg" height="4%" width="4%">
+<img src="assets/firebase.svg" height="4%" width="4%">
+<img src="assets/docker.svg" height="4%" width="4%">
+<img src="assets/aws.svg" height="4%" width="4%">
   
 </p>
 <br>
