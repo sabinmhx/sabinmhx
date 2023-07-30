@@ -5,6 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sabinmhx?style=social)](https://twitter.com/intent/follow?screen_name=sabinmhx)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sabinmhx/)](https://www.linkedin.com/in/sabinmhx/)
 [![Gmail Badge](https://img.shields.io/badge/-sabinmhx@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sabinmhx@gmail.com)](mailto:sabinmhx@gmail.com)
+[![Resume Badge1](https://img.shields.io/badge/Resume-blue)](assets/Sabin-Maharjan-Resume.pdf)
 
 <p align="center"> <img src="assets/githubprofile.png" alt="sabinmhx" /> </p>
 
