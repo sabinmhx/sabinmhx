@@ -11,7 +11,7 @@
   <img src="assets/java.svg" height="5%" width="5%">
   <img src="assets/dart.svg" height="4%" width="4%">
   <img src="assets/flutter.svg" height="4%" width="4%">
-  <img src="assets/javascript.svg" height="5%" width="5%">
+  <img src="assets/javascript.svg" height="4%" width="4%">
   <img src="assets/docker.svg" height="4%" width="4%">
 </p>
 
