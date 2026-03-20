@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="assets/python.svg" height="4%" width="4%">
-  <img src="assets/java.svg" height="5%" width="5%">\
+  <img src="assets/java.svg" height="5%" width="5%">
   <img src="assets/docker.svg" height="4%" width="4%">
   <img src="assets/linux.svg" height="4%" width="4%">
   <img src="assets/bash.svg" height="4%" width="4%">
