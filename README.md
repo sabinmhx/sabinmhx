@@ -1,4 +1,4 @@
-# 👨🏻‍💻 [Sabin Maharjan @sabinmhx](http://www.sabin-maharjan.com.np)
+# 👨🏻‍💻 [Sabin Maharjan @sabinmhx](https://sabinmhx.github.io)
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=sabinmhx&color=red&style=flat)](https://komarev.com/ghpvc/?username=sabinmhx)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sabinmhx/)](https://www.linkedin.com/in/sabinmhx/)
